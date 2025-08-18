@@ -1,0 +1,11 @@
+
+# We can create list in two ways as follows : 
+
+lst1 = []
+print(type(lst1))
+
+lst2 = list()
+print(type(lst2))
+
+# Always use the second approch.
+# That's what good programer does.

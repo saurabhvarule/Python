@@ -1,0 +1,16 @@
+
+class Parent:
+
+    def __init__(self):
+        print("In parent constructor")
+        self.x = 10
+
+    def disp(self):
+        print(self.x)
+
+class Child(Parent):
+
+    pass
+
+obj = Child()
+obj.disp()
