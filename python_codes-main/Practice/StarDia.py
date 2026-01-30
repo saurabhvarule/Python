@@ -1,4 +1,6 @@
 
+
+
 rows = int(input("Enter number of rows : "))
 i = 0
 flag = 0

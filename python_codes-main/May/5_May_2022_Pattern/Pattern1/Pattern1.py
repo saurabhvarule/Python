@@ -21,6 +21,8 @@ for i in range(rows):
             print(num2, end = " ")
             num2 = num2 + 1
     
+    num1 = 65
+    num2 = 1
     a = a + 1
     if(a == 3):
          a = 0

@@ -5,8 +5,7 @@ for i in range(rows):
     for j in range(rows - i):
         print(" ", end = ' ')
     num = num + i
-    for k in range(i + i + 1):
-       
+    for k in range((2*i) + 1):
         print(num, end = " ")
         if(i <= k):
             num += 1
